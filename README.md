@@ -1,4 +1,4 @@
-# fBilletera Virtual
+# Billetera Virtual
 
 ## Project setup
 ```
